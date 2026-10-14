@@ -38,6 +38,12 @@ My projects are built around those problems: **concurrency control, ACID transac
 ```
 
 ---
+<div align="center">
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=prash-spartanx&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+---
 
 ## 🛠️ Tech Stack
 

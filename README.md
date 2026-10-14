@@ -82,7 +82,7 @@ flowchart LR
     F --> G[Consumer<br/>Dedup, Manual Ack, DLQ]
 ```
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/prash-spartanx/ResilientTransactions))
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/prash-spartanx/ResilientTransactions)
 
 ---
 
@@ -96,7 +96,7 @@ Write one YAML spec, get a runnable backend.
 - **LLM-assisted logic:** 3 providers (Ollama, Groq, Gemini) write service-method logic from per-method prompts, with output cleaning, validation and up to 3 retries.
 - **Tested for real:** black-box end-to-end scripts in Docker across **6 domains**. The shop API passed **55 of 55** checks and the ticket tracker passed **50 of 56**, with the remaining gaps documented.
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/prash-spartanx/REPLACE-WITH-CODEGEN-REPO-NAME)
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/prash-spartanx/codegen)
 
 ---
 
@@ -110,7 +110,7 @@ A home robot split into independent services that talk only through Kafka.
 - **Perception stack:** wake-word detection, Whisper transcription, face recognition, YOLOv8 object detection and an ultrasonic sensor that stops the robot at **25 cm**.
 - **Honest status:** tested end to end on hardware. Wheel motion is still unverified, and that's documented in the repo.
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/prash-spartanx/REPLACE-WITH-WANDERER-REPO-NAME)
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/prash-spartanx/wanderer)
 
 ---
 
